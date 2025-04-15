@@ -2,13 +2,7 @@
 Deep Learning for Image Analysis — Spring 2025  
 University of Utah — ECE 6545
 
-## Repository Structure
-ECE6545_DEEP_LRN_IMAGE/ 
-├── assignment1package/ 
-├── assignment2package/ 
-├── assignment3package/ 
-├── README.md 
-└── .gitignore
+ECE6545_DEEP_LRN_IMAGE/ ├── assignment1package/ ├── assignment2package/ ├── assignment3package/ ├── README.md └── .gitignore
 
 ---
 
