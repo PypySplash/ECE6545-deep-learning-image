@@ -1,0 +1,41 @@
+# Office & document files
+*.pdf
+*.doc
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environment
+venv/
+.env
+.env.*
+
+# Dataset / Output / Binary / Logs
+*.tar
+*.zip
+*.tar.gz
+*.gz
+*.h5
+*.pth
+*.ckpt
+*.idx*
+*.ubyte
+*.npz
+*.npy
+*.csv
+*.png
+*.out
+*.log
+*.err
+
+train_plots*/
+val_plots*/
+
+# VSCode / MacOS
+.vscode/
+.DS_Store
